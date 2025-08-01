@@ -1,7 +1,7 @@
 # Laban Motion Based Arm Trajectories
 A dataset collected to detect qualities of expressivity in robotic arm trajectories. This dataset was released as part of the RA-L paper under review entitled "Can We Automatically Label Expressive Robot Arm Motion Qualities? Open Dataset and Machine Learning Results." Please cite this paper to acknowledge use of the dataset.
 
-This data was collected with Laban Motion Analysis, and especially the subtopic of Laban Efforts, in mind. These ideas from the study of human movement informed the presented work. Within the dataset, files are named by <Participant#>_<Condition>.csv, with condition labels being one of 8 specific styles based on the Laban Effort poles: 
+This data was collected with two ideas from the study of human movement in mind: Laban Motion Analysis, and especially the subtopic of Laban Efforts. Within the dataset, files are named by <Participant#>_<Condition>.csv, with condition labels being one of 8 specific styles based on the Laban Effort poles: 
 - A --> Strong
 - B --> Light
 - C --> Direct
